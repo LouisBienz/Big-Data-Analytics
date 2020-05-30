@@ -209,4 +209,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# token for brawl stars api
+.token_brawlstats.txt
+
 # End of https://www.gitignore.io/api/python,pycharm,jupyternotebooks
